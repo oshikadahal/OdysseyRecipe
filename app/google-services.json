@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "125451241800",
+    "firebase_url": "https://odysseyrecipe-default-rtdb.firebaseio.com",
+    "project_id": "odysseyrecipe",
+    "storage_bucket": "odysseyrecipe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125451241800:android:8758c186a30d64ca704b7d",
+        "android_client_info": {
+          "package_name": "com.example.odysseyrecipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTO6BmSq3IOfY5zeMjcLlvJlTOmwVR4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
